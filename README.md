@@ -7,6 +7,7 @@ I am an aspiring software engineer with a passion for coding and problem-solving
 
 ## Projects
 - [Project 1](projects/project1/README.md)
+
 - [Project 2](projects/project1/README.md)*
 
 
