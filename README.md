@@ -8,7 +8,7 @@ I am an aspiring software engineer with a passion for coding and problem-solving
 ## Projects
 - [REWATCHABILITY CHART](projects/project1/README.md)
 - [GYM WEB APP](projects/project1/README.md)*
-(Projects with "*" are currently in progress please check back or shoot me an email for my current progresson it)
+- (Projects with "*" are currently in progress please check back or shoot me an email for my current progresson it)
 
 ## Skills
 - Programming Languages: Python, JavaScript, Java 
